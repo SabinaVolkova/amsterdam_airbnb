@@ -10,7 +10,7 @@ The datasets include:
 - **Calendar data** — availability and prices for each listing over the next 1.5 years.
 - **Reviews data** — textual reviews written by guests.
 
-These datasets can be found on [Inside Airbnb website] (https://insideairbnb.com/get-the-data/).
+These datasets can be found on [Inside Airbnb website](https://insideairbnb.com/get-the-data/).
 
 ## Project Objectives
 In this project I performed a descriptive and exploratory data analysis to answer the following questions: 
@@ -33,19 +33,19 @@ Python Packages used:
 
 ## Analysis
 The analysis included the following steps:
-1. Data Cleaning and Preparation
+1. **Data Cleaning and Preparation**
 - Removed irrelevant columns
 - Handled inconsistent data formats
 - Converted data types for correct analysis
-2. Descriptive Statistics
+2. **Descriptive Statistics**
 - Calculated average, median, and distribution for price, occupancy rate, and other metrics
 - Compared statistics across neighborhoods and property types
-3. Exploratory Data Analysis (EDA)
+3. **Exploratory Data Analysis (EDA)**
 - Visualized geographical distribution of listings
 - Compared prices across neighborhoods and room types
 - Analyzed occupancy rates by property type and location
 - Examined seasonal patterns and travel trends by month and years 
-4. Visualization
+4. **Visualization**
 - Created bar plots, box plots, heatmaps, and geographical maps with Seaborn, Matplotlib, and Plotly
 
 ## Conclusion
